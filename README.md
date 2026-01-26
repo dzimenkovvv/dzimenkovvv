@@ -13,9 +13,9 @@
 🚀 Проекты
 
 📁 **[bank-system](https://github.com/dzimenkovvv/bank-system)** — система учета расходов и аналитики на Go  
-📁 **[interfaces-go-bank-sys](https://github.com/dzimenkovvv/interfaces-go-bank-sys)** — демо использования интерфейсов Go
+📁 **[interfaces-go-bank-sys](https://github.com/dzimenkovvv/interfaces-go-bank-sys)** — демо использования интерфейсов Go  
 📁 **[library-management-go](https://github.com/dzimenkovvv/library-management-go)** — система управления библиотекой  
-📁 **[text-analyzer](https://github.com/dzimenkovvv/text-analyzer)** — анализатор текста  
+📁 **[text-analyzer](https://github.com/dzimenkovvv/text-analyzer)** — анализатор текста
 
 📫 Контакты
 
