@@ -1,16 +1,25 @@
-## Hi there 👋
+Привет! 👋 Меня зовут Дмитрий!
 
-<!--
-**dzimenkovvv/dzimenkovvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Go‑разработчик, увлекаюсь backend‑программированием и чистой архитектурой.
 
-Here are some ideas to get you started:
+🛠️ Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 Go (Golang)
+- 📌 Основы проектирования ПО
+- 📌 CLI и консольные приложения
+- 📌 Работа с интерфейсами и структурами данных
+- 📌 Базовый SQL (PostgreSQL) — работа с SELECT, INSERT, UPDATE, JOIN
+
+🚀 Проекты
+
+📁 **[bank-system](https://github.com/dzimenkovvv/bank-system)** — система учета расходов и аналитики на Go  
+📁 **[interfaces-go-bank-sys](https://github.com/dzimenkovvv/interfaces-go-bank-sys)** — демо использования интерфейсов Go
+📁 **[library-management-go](https://github.com/dzimenkovvv/library-management-go)** — система управления библиотекой  
+📁 **[text-analyzer](https://github.com/dzimenkovvv/text-analyzer)** — анализатор текста  
+
+📫 Контакты
+
+- GitHub: [dzimenkovvv](https://github.com/dzimenkovvv)  
+- Telegram: @dzimenkovvv
+
+✨ Хочу развиваться в backend и Go, готов на стажировку
