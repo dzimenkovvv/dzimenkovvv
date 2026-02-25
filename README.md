@@ -18,7 +18,7 @@
 - обработка маршрутов и тела HTTP-запроса
 - тестирование запросов через Postman
 
-🚀 Проекты
+🚀 Проекты  
 📁 **[go-http-practice](https://github.com/dzimenkovvv/go_http_practice.git)** — базовый HTTP-сервер на Go, обработка запросов, конкурентный доступ к данным (mutex, atomic)  
 📁 **[go-concurrency-practice](https://github.com/dzimenkovvv/go_concurrency_practice.git)** — практика работы с goroutines, channels, context, WaitGroup, mutex, atomic  
 📁 **[bank-system](https://github.com/dzimenkovvv/bank-system)** — система учета расходов и аналитики на Go  
