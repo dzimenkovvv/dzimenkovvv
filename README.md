@@ -32,13 +32,13 @@
 - 📌 Проектирование простых схем
 - 📌 Курс SQL Academy
 
-🚀 Проекты  
+## 🚀 Проекты  
 📁 **[Go ToDo Rest API](https://github.com/dzimenkovvv/go-todo-rest-api.git)** — REST API backend на Go   
 📁 **[Go HTTP Practice](https://github.com/dzimenkovvv/go_http_practice.git)** — базовый HTTP-сервер на Go, обработка запросов, конкурентный доступ к данным (mutex, atomic)  
 📁 **[Go Concurrency Practice](https://github.com/dzimenkovvv/go_concurrency_practice.git)** — практика работы с goroutines, channels, context, WaitGroup, mutex, atomic  
 📁 **[Bank System](https://github.com/dzimenkovvv/bank-system)** — система учета расходов и аналитики на Go  
 
-📫 Контакты
+## 📫 Контакты
 
 - GitHub: [dzimenkovvv](https://github.com/dzimenkovvv)  
 - Telegram: @dzimenkovvv
