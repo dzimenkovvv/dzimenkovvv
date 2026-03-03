@@ -11,13 +11,13 @@
 - 📌 Работа с интерфейсами
 - 📌 Обработка ошибок (errors.Is, кастомные ошибки)
 - 📌 Конкурентное программирование:
-  -- goroutines
-  -- channels
-  -- select
-  -- context
-  -- sync.Mutex / sync.RWMutex
-  -- atomic
-  -- WaitGroup
+  -- goroutines  
+  -- channels  
+  -- select  
+  -- context  
+  -- sync.Mutex / sync.RWMutex  
+  -- atomic  
+  -- WaitGroup  
 ## HTPP
 - 📌 Реализация CRUD API
 - 📌 Обработка JSON (encoding/json)
