@@ -4,19 +4,33 @@
 
 🛠️ Навыки
 
-- 📌 Go (Golang)
-- 📌 Основы проектирования ПО
-- 📌 CLI и консольные приложения
-- 📌 Работа с интерфейсами и структурами данных
-- 📌 SQL (PostgreSQL) — пройден курс от SQL Academy
-- 📌 Обработка ошибок и паника
-- 📌 Работа с горутинами, каналами и select
-- 📌 Анонимные функции в горутинах
-- 📌 Работа с HTTP:
-- Реализация CRUD API
-- Обработка JSON (encoding/json)
-- DTO для входящих/исходящих данных
-- Тестирование запросов через Postman
+## Go (Golang)
+- 📌 Разработка REST API (net/http, gorilla/mux)
+- 📌 Разделение слоёв (HTTP → service → storage)
+- 📌 Dependency Injection через конструкторы
+- 📌 Работа с интерфейсами
+- 📌 Обработка ошибок (errors.Is, кастомные ошибки)
+- 📌 Конкурентное программирование:
+  -- goroutines
+  -- channels
+  -- select
+  -- context
+  -- sync.Mutex / sync.RWMutex
+  -- atomic
+  -- WaitGroup
+## HTPP
+- 📌 Реализация CRUD API
+- 📌 Обработка JSON (encoding/json)
+- 📌 Работа со статус-кодами
+- 📌 DTO для входящих/исходящих данных
+- 📌 Тестирование через Postman
+
+## Базы данных
+- 📌 PostgreSQL
+- 📌 CRUD-запросы
+- 📌 JOIN, группировки
+- 📌 Проектирование простых схем
+- 📌 Курс SQL Academy
 
 🚀 Проекты  
 📁 **[Go ToDo Rest API](https://github.com/dzimenkovvv/go-todo-rest-api.git)** — REST API backend на Go   
