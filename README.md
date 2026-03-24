@@ -1,7 +1,5 @@
 Привет! 👋 Меня зовут Дмитрий!
 
-Я начинающий Go‑разработчик, интересуюсь проектированием backend-сервисов, REST API и конкурентным программированием
-
 🛠️ Навыки
 
 ## Go (Golang)
@@ -33,6 +31,7 @@
 - 📌 Курс SQL Academy
 
 ## 🚀 Проекты  
+📁 **[Pair Task Bot](https://github.com/dzimenkovvv/Pair_Task_Bot.git)** — Telegram BOT по созданию совместных задач и взаимодействию с ними  
 📁 **[Go ToDo Rest API](https://github.com/dzimenkovvv/go-todo-rest-api.git)** — REST API backend на Go   
 📁 **[Go HTTP Practice](https://github.com/dzimenkovvv/go_http_practice.git)** — базовый HTTP-сервер на Go, обработка запросов, конкурентный доступ к данным (mutex, atomic)  
 📁 **[Go Concurrency Practice](https://github.com/dzimenkovvv/go_concurrency_practice.git)** — практика работы с goroutines, channels, context, WaitGroup, mutex, atomic  
@@ -42,5 +41,3 @@
 
 - GitHub: [dzimenkovvv](https://github.com/dzimenkovvv)  
 - Telegram: @dzimenkovvv
-
-✨ Хочу развиваться в backend и Go, готов на стажировку
